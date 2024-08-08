@@ -4,7 +4,7 @@
 const char *ssid = "yourssid";                 //SSID
 const char *password = "yourpassword";         //Wi-Fi-password
 
-const String token = "your_LINE's_token";         //LINEのやつ
+const String token = "Your LINE's token";         //LINEのやつ
 
 int mode;     //親探知-インターフォンモードの切り替え用変数
 
